@@ -1,0 +1,10 @@
+*.exe
+dfs_bfs.c
+.vscode
+dfs_bfs2.c
+bstPN.C 
+
+BST.C
+
+BSTTraversal.C
+LL.C
